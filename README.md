@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=6366F1&center=true&vCenter=true&random=false&width=500&lines=Hello+%F0%9F%91%8B%2C+I'm+Le+Thanh+Tung;Full-Stack+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=6366F1&center=true&vCenter=true&random=false&width=500&lines=Hello+%F0%9F%91%8B%2C+I'm+Le+Thanh+Tung;CS+Student+%26+Aspiring+Developer;Building+Cool+Things+with+Code" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -20,8 +20,10 @@
 
 ```yaml
 name: Le Thanh Tung
-location: Vietnam
-occupation: Full-Stack Developer
+location: Ho Chi Minh City, Vietnam
+occupation: Information Technology Student
+education: HCMC University of Food Industry
+status: Looking for internship / job opportunities
 languages:
   - Vietnamese (native)
   - English
@@ -106,5 +108,5 @@ currently_learning:
 </div>
 
 <div align="center">
-  <sub>✨ Let's build something amazing together ✨</sub>
+  <sub>✨ Open to internship and job opportunities — feel free to reach out! ✨</sub>
 </div>
