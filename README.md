@@ -8,11 +8,8 @@
   <a href="https://github.com/lethanhtung779">
     <img src="https://img.shields.io/github/followers/lethanhtung779?label=Followers&style=for-the-badge&color=6366F1" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:lethanhtungylt1@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/your-profile/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
 
